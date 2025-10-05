@@ -36,6 +36,7 @@ Expected Output
 ✅ Average Grade of 6 students: 84.17
 
 🧱 Scenario 2 – Object-Oriented Programming and Inheritance
+
 Objective
 
 Design a vehicle management system demonstrating class inheritance and polymorphism.
@@ -47,21 +48,15 @@ Base class: Vehicle with attributes make, model, and year.
 Subclasses:
 
 Car (number of doors)
-
 Truck (cargo capacity)
-
 Motorcycle (drive type)
-
 Each subclass overrides and extends base methods.
-
 Demonstrates method overriding, inheritance, and object interaction.
 
 Concepts Used
 
 OOP Principles: Inheritance, Encapsulation, and Polymorphism
-
 Method overriding (display_info())
-
 Class constructors (__init__)
 
 Expected Output
@@ -73,6 +68,7 @@ Toyota Corolla is accelerating smoothly!
 Toyota Corolla's engine stopped.
 
 📚 Scenario 3 – Functions and Modules (Library Management System)
+
 Objective
 
 Develop a small library management system using functions, modules, and built-in features.
@@ -80,25 +76,17 @@ Develop a small library management system using functions, modules, and built-in
 Key Features
 
 Manage book inventory (add, remove, display).
-
 Borrow and return books with fine calculation.
-
 Fine calculated using math module.
-
 Use of lambda functions to filter overdue books.
-
 List comprehensions for borrowed book reports.
 
 Concepts Used
 
 Functions and modular programming
-
 math module
-
 Lambda expressions
-
 List comprehensions
-
 Data structures (list, dict)
 
 Expected Output
@@ -113,6 +101,7 @@ Expected Output
  - Python Programming (2 days borrowed)
 
 🐞 Scenario 4 – Debugging and Code Correction
+
 Objective
 
 Fix syntax and logic errors in a faulty Python script performing mathematical operations.
@@ -120,17 +109,13 @@ Fix syntax and logic errors in a faulty Python script performing mathematical op
 Key Features
 
 Corrected missing colons and indentation errors.
-
 Fixed total and product calculations.
-
 Added function testing and print output.
 
 Concepts Used
 
 Debugging syntax and logical errors
-
 Function definition and looping
-
 Arithmetic operations and return values
 
 Expected Output
@@ -163,5 +148,3 @@ Check the console output to verify expected results.
 Muhammad Qamaruddin
 Python Programming Project — Demonstrating Core Python Concepts
 
-Muhammad Qamaruddin
-Python Programming Project — Demonstrating Core Python Concepts
